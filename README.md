@@ -17,7 +17,8 @@ This mobile app generates random words and displays them on the screen. It's bui
 
 ![Screenshot 2024-03-02 210155](https://github.com/HdS2005/Random-Word-Generator/assets/144425351/317e51ae-63ed-41d2-bed4-9c5610dba27f)
 
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 2024-03-02 210234](https://github.com/HdS2005/Random-Word-Generator/assets/144425351/abe475a8-6e09-44f3-9c9b-967b7e8012d8)
+
 
 ## Getting Started
 
