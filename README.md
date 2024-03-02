@@ -37,5 +37,4 @@ This mobile app generates random words and displays them on the screen. It's bui
 
 ## Acknowledgments
 - Thanks to the [Flutter](https://flutter.dev/) community for providing an excellent framework.
-- Inspiration from other random word generator projects.
 
